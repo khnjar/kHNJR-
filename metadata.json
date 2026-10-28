@@ -1,0 +1,8 @@
+{
+  "name": "Remix: الموسوعة الطبية",
+  "description": "موسوعة طبية شاملة باللغة العربية لشرح أجهزة الجسم وتكاملها الفسيولوجي بناء على الحديث النبوي الشريف وتفاصيل التشخيص والعلاجات والحاسبات السريرية التفاعلية",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
